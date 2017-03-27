@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## DOad.CO | Buy & Sell Advertising Space Online
 
-You can use the [editor on GitHub](https://github.com/DOadco/buy-sell-ads/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DOad.CO is the global platform Advertising MarketPlace for buying and selling advertising space 
+For Publishers ,Marketers Welcome to the DOad.CO
+
+
+[doad](https://doad.co/).
 
 ### Markdown
 
